@@ -1,0 +1,13 @@
+
+body{
+	margin: 0;
+	padding: 0;
+  	font-family: OpenSans, sans-serif;
+
+}
+
+@import 'fonts.css' // шрифты
+
+@import '../../blocks/header/header.scss' ;
+// @import '../../blocks/__samename/__samename.scss' ;
+
